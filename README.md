@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Sviat Kharuk!</h1>
-<p>I'm a bioinformatics researcher at EMBL, working on single-cell transcriptomics and RNA velocity. I hold a master's in biochemistry, with a thesis on 
-  [RNA velocity in Drosophila perturbation data](https://github.com/sviatkh/master-thesis-RNA-velocity/tree/main) completed during an internship at EMBL. My work focuses on understanding cellular dynamics through computational analysis of high-dimensional data.</p>
+
+I'm a bioinformatics researcher at EMBL, working on single-cell transcriptomics and RNA velocity. I hold a master's in biochemistry, with a thesis on [RNA velocity in Drosophila perturbation data](https://github.com/sviatkh/master-thesis-RNA-velocity/tree/main) completed during an internship at EMBL. My work focuses on understanding cellular dynamics through computational analysis of high-dimensional data.
 
 <h2>Languages and Tools I Use</h2>
 <div style="display: flex; align-items: center; gap: 10px;">
